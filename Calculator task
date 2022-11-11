@@ -1,0 +1,9 @@
+run:
+choose an operator: +,-,* or /
+\
+Enter the first number
+65
+Enter the second  number
+87
+Invalid operator!
+BUILD SUCCESSFUL (total time: 29 seconds)
